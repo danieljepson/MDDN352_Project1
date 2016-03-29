@@ -27,11 +27,12 @@ body {
   background-color:#a6a6a6;
   border-bottom:3px solid #ff9900;
   text-align: center;
-  
+  font-family:"Courier New", Courier, monospace;
 }
 
 #body {
   padding:30px 20%;
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
 
